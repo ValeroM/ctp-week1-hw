@@ -1,0 +1,77 @@
+#cookie-header {
+  text-align: center;
+  padding: 13px;
+}
+body {
+  text-align: center;
+}
+
+#cookies {
+  border-radius: 50%;
+}
+
+.container-0 {
+  position: relative;
+  background-image: url("../img/milkbg.jpg");
+  height: 400px;
+  background-position: 50% 50%;
+}
+
+.text-block-banner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding: 30px;
+  border-radius: 11px;
+  background-color: black;
+  background: rgb(
+    14,
+    10,
+    10
+  ); /* Fallback for older browsers without RGBA-support */
+  background: rgba(15, 9, 9, 0.459);
+}
+.container-1 {
+  background-color: lightgrey;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.about-us-text {
+  padding-bottom: 30px;
+  text-align: justify;
+  text-justify: inter-word;
+  align-self: right;
+}
+
+#cookie-monster {
+  float: left;
+  width: 200px;
+  height: 120px;
+  padding: 15px;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 5px;
+}
+
+.container-2 {
+  background-color: rgb(0, 174, 255);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 13px;
+}
+
+.col-lg {
+  text-align: center;
+}
+
+.new-box {
+  background-color: red;
+  border-radius: 4px;
+  font-weight: bold;
+  color: white;
+  margin-right: 40%;
+  margin-left: 40%;
+}
